@@ -1,0 +1,13 @@
+c:\users\kiki\documents\visual studio 2015\Projects\Bio7\Bio7\bin\Debug\Bio7.exe.config
+c:\users\kiki\documents\visual studio 2015\Projects\Bio7\Bio7\bin\Debug\Bio7.exe
+c:\users\kiki\documents\visual studio 2015\Projects\Bio7\Bio7\bin\Debug\Bio7.pdb
+c:\users\kiki\documents\visual studio 2015\Projects\Bio7\Bio7\obj\Debug\Bio7.csprojResolveAssemblyReference.cache
+c:\users\kiki\documents\visual studio 2015\Projects\Bio7\Bio7\obj\Debug\Bio7.exe
+c:\users\kiki\documents\visual studio 2015\Projects\Bio7\Bio7\obj\Debug\Bio7.pdb
+D:\FINKI materijali\Bioinformatika\Bio7\Bio7\bin\Debug\Bio7.exe.config
+D:\FINKI materijali\Bioinformatika\Bio7\Bio7\bin\Debug\Bio7.exe
+D:\FINKI materijali\Bioinformatika\Bio7\Bio7\bin\Debug\Bio7.pdb
+D:\FINKI materijali\Bioinformatika\Bio7\Bio7\obj\Debug\Bio7.csprojAssemblyReference.cache
+D:\FINKI materijali\Bioinformatika\Bio7\Bio7\obj\Debug\Bio7.csproj.CoreCompileInputs.cache
+D:\FINKI materijali\Bioinformatika\Bio7\Bio7\obj\Debug\Bio7.exe
+D:\FINKI materijali\Bioinformatika\Bio7\Bio7\obj\Debug\Bio7.pdb
